@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T21:05:03 BDT" name="Default suite" finished-at="2024-01-18T21:05:15 BDT" duration-ms="12086">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T21:05:03 BDT" name="Default test" finished-at="2024-01-18T21:05:15 BDT" duration-ms="12086">
+      <class name="SaimaNova.AutomationProject.test">
+        <test-method is-config="true" signature="start()[pri:0, instance:SaimaNova.AutomationProject.test@30c15d8b]" started-at="2024-01-18T21:05:01 BDT" name="start" finished-at="2024-01-18T21:05:03 BDT" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="firstTest()[pri:0, instance:SaimaNova.AutomationProject.test@30c15d8b]" started-at="2024-01-18T21:05:03 BDT" name="firstTest" finished-at="2024-01-18T21:05:15 BDT" duration-ms="12055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:SaimaNova.AutomationProject.test@30c15d8b]" started-at="2024-01-18T21:05:15 BDT" name="close" finished-at="2024-01-18T21:05:15 BDT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SaimaNova.AutomationProject.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
